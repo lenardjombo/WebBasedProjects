@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-image: url("images/images2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+}
+canvas {
+    margin-top: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: #cc6699;
+}
+
+
+  
